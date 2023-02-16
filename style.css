@@ -1,0 +1,103 @@
+body {
+    font-family: 'Lato', sans-serif; 
+    background-image: url("img/stars.jpg");
+
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 15px;
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+
+    font-size: 80px;
+    letter-spacing: 5px;
+    
+
+}
+
+
+input[type='radio'] { 
+    transform: scale(1.5); 
+}
+
+
+#quiz {
+padding:15px;
+}
+
+.quiz-question {
+    font-weight: 900;
+}
+
+#form-container {
+    font-size: 20px;
+    margin: auto;
+    background: lightblue;
+    padding:10px 20px 10px 20px;
+    width:500px;
+    border-radius:20px;
+
+
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#textbox {
+    height:25px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:none;
+    padding-left: 5px;
+}
+
+#button {
+    background: green;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color:white;
+    font-size: 20px;
+    transition-duration: .5s;
+    margin: auto;
+
+}
+
+#button-container {
+    text-align: center;
+}
+
+
+
+#button:hover {
+    background: white;
+    border: 1px solid green;
+    color: black;
+    cursor: pointer;
+}
+
+#after_submit {
+    visibility: hidden;
+    background: pink;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+    border-radius:20px;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+}
+
+#picture {
+    width: 375px;
+    height: 245px;
+
+}
+
+#mc {
+    display:inline;
+}
+
