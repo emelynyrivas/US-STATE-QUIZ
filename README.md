@@ -1,5 +1,8 @@
-# US STATE CAPITAL QUIZ
-A Responsive quiz that shows a range of gifs according to your score.
+![🦅_USA_STATE_CAPITAL_QUIZ](https://user-images.githubusercontent.com/101910013/219878398-8c9e8d78-5332-46ab-9f43-5312abe9fdb8.png)
+
+A Responsive quiz that shows a range of gifs + messages according to your score.
+
+
 
 ## HOW TO INSTALL AND RUN PROJECT
 ????
