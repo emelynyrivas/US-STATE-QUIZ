@@ -5,8 +5,8 @@ A Responsive quiz that shows a range of gifs according to your score.
 ????
 
 ## How to Use this Project
-- You answer the questions, and at the end you click the "submit" button. You will then be shown a gif based on your results. 
-- Warning, if you do not complete the quiz but decide to click the submit button anyway, you will recieve a gif only based on the questions you answered.
+- You answer the questions, and at the end you click the "submit" button. You will then be shown a gif + message based on your results. 
+- Warning, if you do not complete the quiz but decide to click the submit button anyway, you will recieve a gif + message only based on the questions you answered.
 
 ## How to contribute 
 1. Submit pull requets with comprehensive description of changes.
