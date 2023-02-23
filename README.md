@@ -4,8 +4,9 @@ A Responsive quiz that shows a range of gifs + messages according to your score.
 
 
 
-## HOW TO INSTALL AND RUN PROJECT
-????
+## HOW TO VIEW PROJECT
+click this link:
+https://emelynyrivas.github.io/US-STATE-QUIZ/
 
 ## How to Use this Project
 - You answer the questions, and at the end you click the "submit" button. You will then be shown a gif + message based on your results. 
